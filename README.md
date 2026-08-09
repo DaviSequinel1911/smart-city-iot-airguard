@@ -573,7 +573,7 @@ O desenvolvimento do AirGuard envolve diferentes conceitos de computação e sis
 
 # 🎓 Contexto acadêmico
 
-O projeto foi desenvolvido no contexto acadêmico de **Internet das Coisas (IoT) e Smart Cities**, utilizando uma arquitetura baseada em sensores, microcontrolador, comunicação sem fio e visualização de dados.
+O projeto foi desenvolvido no contexto acadêmico de **Internet das Coisas (IoT) e Smart Cities** para a disciplina de **Fundamentos de Sistemas Ciberfísicos**, utilizando uma arquitetura baseada em sensores, microcontrolador, comunicação sem fio e visualização de dados.
 
 O objetivo foi integrar diferentes tecnologias em uma solução capaz de realizar monitoramento ambiental e disponibilizar os dados coletados para acompanhamento.
 
