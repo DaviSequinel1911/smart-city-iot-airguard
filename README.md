@@ -224,7 +224,7 @@ O sistema possui três estados:
 | Status | Indicador |
 |---|---|
 | **AR BOM** | LED verde |
-| **ATENÇÃO** | LED verde + vermelho |
+| **ATENÇÃO** | LED amarelo |
 | **CRÍTICO** | LED vermelho + buzzer |
 
 A classificação é determinada pela combinação dos valores de **qualidade do ar** e **temperatura**.
